@@ -1,6 +1,6 @@
 # Hi, I'm Weiping Yan 👋
 
-I am an undergraduate student currently studying in the Netherlands in a joint program between **TU Delft** and **TU Eindhoven**, with a curriculum covering **Computer Science, Electrical Engineering, and Applied Physics**.
+I am an undergraduate student currently studying in the Netherlands in a joint program between **TU Delft** and **TU Eindhoven**, with a triple degree program covering **Computer Science, Electrical Engineering, and Applied Physics**.
 
 ---
 
