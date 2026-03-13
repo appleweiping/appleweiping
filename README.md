@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @appleweiping
-- 👀 I’m interested in coding and math, actually not))
-- 🌱 I’m currently learning vatiety of subjects including maths chemistry and physics, but now mit online open courses engage my most time.
-- 💞️ I’m looking to collaborate on some platform or someone who want to challenge themselves
-- 📫 How to reach me vipinapple986@gmail.com or twitter
+# Hi, I'm Weiping Yan 👋
 
-<!---
-appleweiping/appleweiping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an undergraduate student currently studying in the Netherlands in a joint program between **TU Delft** and **TU Eindhoven**, with a curriculum covering **Computer Science, Electrical Engineering, and Applied Physics**.
+
+---
+
+## 🔍 Research Interests
+
+My primary academic interests include:
+
+- Analog circuit design  
+- Artificial intelligence for engineering and science
+- Foundation models
+
+I am particularly interested in exploring the intersection between **hardware systems and intelligent algorithms**.
+
+---
+
+## 🌱 Current Learning
+
+I am currently studying a wide range of topics including:
+ 
+- Applied physics  
+- Computer Science  
+- Electrical engineering  
+
+Recently I have also started exploring **AI systems and large language models**, and I am actively looking for opportunities to gain research experience in this area.
+
+---
+
+## 🤝 Collaboration
+
+I am interested in collaborating on:
+
+- AI-related projects
+- open-source learning projects
+- interdisciplinary research combining hardware and AI
+
+If you enjoy challenging problems and exploring new ideas, feel free to connect.
+
+---
+
+## 📫 Contact
+
+Email: **vipinapple986@gmail.com**
+
+---
+
+⭐ Thanks for visiting my profile.
