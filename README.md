@@ -1,57 +1,101 @@
-# Hi, I'm Weiping Yan 👋
+<div align="center">
+  <h1>Weiping Yan</h1>
+  <p>
+    Undergraduate Researcher in AI for Science, Foundation Models, and Analog Design Automation
+  </p>
+  <p>
+    TU Delft x Eindhoven University of Technology
+  </p>
+  <p>
+    <a href="https://appleweiping.github.io/">Website</a> |
+    <a href="mailto:vipinapple986@gmail.com">Email</a> |
+    <a href="https://www.linkedin.com/in/weiping-yan-b62567383">LinkedIn</a>
+  </p>
+</div>
 
-Undergraduate student in a joint program between **TU Delft** and **Eindhoven University of Technology**, pursuing an interdisciplinary curriculum in **Computer Science, Electrical Engineering, and Applied Physics**.
+## About
 
----
+I am an undergraduate student in the joint program between **TU Delft** and **Eindhoven University of Technology**, with an interdisciplinary background in **Computer Science**, **Electrical Engineering**, and **Applied Physics**.
 
-## 🔍 Research Focus
+My main research interests are:
 
-My research focuses on:
-
-- **AI for Science**  
-- **Foundation models**  
+- **AI for Science**
+- **Foundation models**
 - **Machine learning for analog circuit design and optimization**
+- **Intelligent systems for physical and engineering workflows**
 
-I am particularly interested in developing **data-driven approaches to model, optimize, and automate analog circuits**, as well as exploring how modern AI systems can interact with complex physical and engineering systems.
+I am especially interested in research where machine learning must stay accountable to **scientific structure**, **engineering constraints**, and **real technical decision-making**.
 
----
+## Profile Snapshot
 
-## 🚀 Current Work
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics for Weiping Yan" width="84%" />
+</p>
 
-- Research on **LLM for Recommendation (LLM4Rec)**  
-- Exploring **machine learning methods for physical and engineering systems**  
-- Building knowledge in **AI systems and foundation models**
+<p align="center">
+  <img src="./metrics.plugin.habits.svg" alt="Coding habits chart for Weiping Yan" width="48%" />
+  <img src="./metrics.plugin.languages.svg" alt="Language activity chart for Weiping Yan" width="48%" />
+</p>
 
----
+## Current Focus
 
-## 🧠 Background
+I am currently working as a **Research Assistant at The Chinese University of Hong Kong**, where I am involved in:
 
-With an interdisciplinary background spanning **software, hardware, and applied physics**, I work at the intersection of intelligent algorithms and real-world engineering systems.
+- **LLM for Recommendation (LLM4Rec)**
+- AI-related research connected to scientific and technical systems
+- Building stronger foundations in machine learning systems and foundation models
 
----
+## Selected Experience
 
-## 🤝 Collaboration
+### The Chinese University of Hong Kong
+**Research Assistant**  
+**Mar 2026 - Present**  
+Working on **LLM4Rec** and related research directions at the intersection of machine learning and technical systems.
+
+### Eindhoven University of Technology
+**Teaching Assistant**  
+**Sep 2025 - Nov 2025**  
+Assisted undergraduate courses in **calculus** and **logic / set theory**, led tutorial sessions, and provided structured feedback on mathematical reasoning and problem solving.
+
+### Zhangjiang Laboratory
+**Research Assistant**  
+**Jul 2025 - Sep 2025**  
+Studied the end-to-end **semiconductor IC design workflow** and EDA toolchain, including schematic design, pre-layout simulation, layout verification, **DRC/LVS**, and **MPW-oriented tape-out preparation**.
+
+### Carnegie Mellon University
+**Student Researcher**  
+**Sep 2023 - Feb 2024**  
+Conducted an environmental data research project on the relationship between **PM2.5 air pollution** and **respiratory disease incidence** using **Python**, exploratory data analysis, statistical inference, and visualization.
+
+## Education
+
+### TU Delft x Eindhoven University of Technology
+**Bachelor of Science in Science and Engineering**  
+**Sep 2024 - Jun 2028**  
+Training across **Computer Science**, **Electrical Engineering**, and **Applied Physics**.
+
+## Skills
+
+- Statistical Inference
+- Data Analysis
+- Data Visualization
+- Python
+- Interdisciplinary research across AI, hardware, and applied physics
+
+## Collaboration
 
 I am open to collaboration in:
 
-- AI for Science  
-- AI-driven analog circuit design  
-- Foundation models and AI systems  
-- Interdisciplinary research combining **AI and hardware**
+- AI for Science
+- Foundation models
+- Analog circuit design and optimization
+- Interdisciplinary research connecting AI and hardware
 
-Feel free to connect if you are working on related problems.
+## Contact
 
----
+- Email: **vipinapple986@gmail.com**
+- LinkedIn: **[weiping-yan-b62567383](https://www.linkedin.com/in/weiping-yan-b62567383)**
+- Website: **[appleweiping.github.io](https://appleweiping.github.io/)**
 
-## 🌍 Future Plan
+If you are working on related problems or would like to connect, feel free to reach out.
 
-I plan to continue my undergraduate studies in the **United States**, with a focus on research in AI and engineering systems.
-## 🤝 Collaboration
-
-I am interested in collaborating on:
-
-- AI for Science projects  
-- AI-driven circuit design / optimization  
-- Interdisciplinary research at the intersection of **AI and hardware systems**
-
-If you're working on related topics or interested in collaboration, feel free to connect.
