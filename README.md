@@ -39,11 +39,11 @@ I am especially interested in research where machine learning must stay accounta
 
 ## Current Focus
 
-I am currently working as a **Research Assistant at The Chinese University of Hong Kong**, where I am involved in:
+I am currently focused on:
 
-- **LLM for Recommendation (LLM4Rec)**
-- AI-related research connected to scientific and technical systems
-- Building stronger foundations in machine learning systems and foundation models
+- **LLM4Rec**
+- **AI4S**
+- **AI4EDA**
 
 ## Selected Experience
 
