@@ -92,8 +92,8 @@ I am open to collaboration in:
 
 - AI for Science
 - Foundation models
-- Analog circuit design and optimization
-- Interdisciplinary research connecting AI and hardware
+- AI4 analog circuits design
+- LLM4Rec
 
 ## Contact
 
