@@ -7,6 +7,9 @@
     TU Delft x Eindhoven University of Technology
   </p>
   <p>
+    Incoming student at University of Minnesota Twin Cities / The Ohio State University / Arizona State University
+  </p>
+  <p>
     <a href="https://appleweiping.github.io/">Website</a> |
     <a href="mailto:vipinapple986@gmail.com">Email</a> |
     <a href="https://www.linkedin.com/in/weiping-yan-b62567383">LinkedIn</a>
