@@ -24,8 +24,8 @@ My main research interests are:
 
 - **AI for Science**
 - **Foundation models**
-- **Machine learning for analog circuit design and optimization**
-- **Intelligent systems for physical and engineering workflows**
+- **Large language models for recommendation**
+- **AI4EDA**
 
 I am especially interested in research where machine learning must stay accountable to **scientific structure**, **engineering constraints**, and **real technical decision-making**.
 
@@ -46,6 +46,7 @@ I am currently focused on:
 
 - **LLM4Rec**
 - **AI4S**
+- **Foundation models**
 - **AI4EDA**
 
 ## Selected Experience
