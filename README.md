@@ -27,8 +27,6 @@ My main research interests are:
 - **Large language models for recommendation**
 - **AI4EDA**
 
-I am especially interested in research where machine learning must stay accountable to **scientific structure**, **engineering constraints**, and **real technical decision-making**.
-
 ## Profile Snapshot
 
 <p align="center">
