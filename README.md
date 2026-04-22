@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Weiping Yan</h1>
   <p>
-    Undergraduate Researcher in AI for Science, Foundation Models, and Analog Design Automation
+    Undergraduate Researcher in LLM for recommendation, Foundation Models, AI for science, AI for EDA
   </p>
   <p>
     TU Delft x Eindhoven University of Technology
