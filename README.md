@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Weiping Yan pencil sketch research profile banner" width="800" />
+</p>
+
 <div align="center">
   <h1>Weiping Yan</h1>
   <p>
@@ -46,6 +50,14 @@ I am currently focused on:
 - **AI4S**
 - **Foundation models**
 - **AI4EDA**
+
+## Public Maintenance
+
+This profile is maintained as a factual public portfolio. The 2026-06-04
+upgrade pass added the hand-drawn banner and ran a Universal Upgrade Forge
+108-pass audit before changing the README. Claims here should stay evidence
+backed: no invented affiliations, dates, publications, awards, metrics, or
+endorsements.
 
 ## Selected Experience
 
