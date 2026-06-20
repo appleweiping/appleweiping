@@ -25,7 +25,7 @@ My main research interests are:
 ## Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/appleweiping" alt="Weiping Yan's GitHub contribution heatmap" width="92%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Weiping Yan's 3D GitHub contribution calendar" width="92%" />
 </p>
 
 ## Current Focus
