@@ -1,22 +1,13 @@
-<p align="center">
-  <img src="./banner.png" alt="Weiping Yan pencil sketch research profile banner" width="800" />
-</p>
-
 <div align="center">
   <h1>Weiping Yan</h1>
+  <p><b>Undergraduate Researcher</b> &middot; LLM4Rec &middot; Foundation Models &middot; AI for Science &middot; AI4EDA</p>
+  <p>TU Delft &times; Eindhoven University of Technology</p>
+  <p>Incoming &middot; <b>University of Minnesota Twin Cities</b> &mdash; College of Science and Engineering (CSE)</p>
   <p>
-    Undergraduate Researcher in LLM for recommendation, Foundation Models, AI for science, AI for EDA
-  </p>
-  <p>
-    TU Delft x Eindhoven University of Technology
-  </p>
-  <p>
-    Incoming student at University of Minnesota Twin Cities / The Ohio State University / Arizona State University
-  </p>
-  <p>
-    <a href="https://appleweiping.github.io/">Website</a> |
-    <a href="mailto:vipinapple986@gmail.com">Email</a> |
-    <a href="https://www.linkedin.com/in/weiping-yan-b62567383">LinkedIn</a>
+    <a href="https://appleweiping.github.io/"><img src="https://img.shields.io/badge/Website-appleweiping.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white" alt="Website" /></a>
+    <a href="mailto:vipinapple986@gmail.com"><img src="https://img.shields.io/badge/Email-vipinapple986%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/weiping-yan-b62567383"><img src="https://img.shields.io/badge/LinkedIn-Weiping%20Yan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=appleweiping&style=flat&color=0A66C2&label=Profile+views" alt="Profile views" />
   </p>
 </div>
 
@@ -31,15 +22,31 @@ My main research interests are:
 - **Large language models for recommendation**
 - **AI4EDA**
 
-## Profile Snapshot
+## GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics for Weiping Yan" width="84%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=appleweiping&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=appleweiping&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Weiping Yan's GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=appleweiping&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleweiping&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.habits.svg" alt="Coding habits chart for Weiping Yan" width="48%" />
-  <img src="./metrics.plugin.languages.svg" alt="Language activity chart for Weiping Yan" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=appleweiping&hide_border=true&theme=github-dark" />
+    <img src="https://streak-stats.demolab.com/?user=appleweiping&hide_border=true&theme=default" alt="GitHub streak" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=appleweiping&hide_border=true&area=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=8b949e&title_color=58a6ff" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=appleweiping&hide_border=true&area=true&bg_color=ffffff00&color=0a66c2&line=0a66c2&point=57606a&title_color=0a66c2" alt="Contribution activity graph" width="96%" />
+  </picture>
 </p>
 
 ## Current Focus
@@ -53,11 +60,10 @@ I am currently focused on:
 
 ## Public Maintenance
 
-This profile is maintained as a factual public portfolio. The 2026-06-04
-upgrade pass added the hand-drawn banner and ran a Universal Upgrade Forge
-108-pass audit before changing the README. Claims here should stay evidence
-backed: no invented affiliations, dates, publications, awards, metrics, or
-endorsements.
+This profile is maintained as a factual public portfolio. The 2026-06-20 refresh
+removed the previous hand-drawn banner and the self-hosted lowlighter metrics in
+favor of live GitHub widgets. Claims here should stay evidence backed: no invented
+affiliations, dates, publications, awards, metrics, or endorsements.
 
 ## Selected Experience
 
@@ -83,12 +89,21 @@ Conducted an environmental data research project on the relationship between **P
 
 ## Education
 
+### University of Minnesota Twin Cities — College of Science and Engineering (CSE)
+**B.S. (Transfer), Computer Science & Electrical Engineering (double major)**  
+**Sep 2026 - Present**  
+Continuing undergraduate study across **Computer Science** and **Electrical Engineering** after transferring from the TU Delft x TU/e program.
+
 ### TU Delft x Eindhoven University of Technology
 **Bachelor of Science in Science and Engineering**  
-**Sep 2024 - Jun 2028**  
+**Sep 2024 - 2026 (transferred to University of Minnesota Twin Cities)**  
 Training across **Computer Science**, **Electrical Engineering**, and **Applied Physics**.
 
 ## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,c,cpp,matlab,latex,linux,git,bash&perline=9" alt="Tech stack" />
+</p>
 
 - Statistical Inference
 - Data Analysis
@@ -112,4 +127,3 @@ I am open to collaboration in:
 - Website: **[appleweiping.github.io](https://appleweiping.github.io/)**
 
 If you are working on related problems or would like to connect, feel free to reach out.
-
