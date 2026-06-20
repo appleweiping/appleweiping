@@ -22,31 +22,10 @@ My main research interests are:
 - **Large language models for recommendation**
 - **AI4EDA**
 
-## GitHub Stats
+## Contributions
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=appleweiping&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=appleweiping&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Weiping Yan's GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=appleweiping&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleweiping&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" height="165" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=appleweiping&hide_border=true&theme=github-dark" />
-    <img src="https://streak-stats.demolab.com/?user=appleweiping&hide_border=true&theme=default" alt="GitHub streak" height="165" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=appleweiping&hide_border=true&area=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=8b949e&title_color=58a6ff" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=appleweiping&hide_border=true&area=true&bg_color=ffffff00&color=0a66c2&line=0a66c2&point=57606a&title_color=0a66c2" alt="Contribution activity graph" width="96%" />
-  </picture>
+  <img src="https://ghchart.rshah.org/409ba5/appleweiping" alt="Weiping Yan's GitHub contribution heatmap" width="92%" />
 </p>
 
 ## Current Focus

@@ -10,14 +10,12 @@ Changes:
 - Retired the self-hosted `lowlighter/metrics` system: deleted
   `.github/workflows/metrics.yml` and the committed SVGs (`github-metrics.svg`,
   `metrics.plugin.habits.svg`, `metrics.plugin.languages.svg`).
-- Switched to live hotlinked GitHub widgets (academic, restrained styling):
-  - github-readme-stats stats card + top-languages (the ability chart).
-  - streak-stats contribution streak.
-  - github-readme-activity-graph contribution graph (the commit graph).
-  - skillicons.dev tech-stack icon row.
-  - shields.io contact badges + komarev profile-views counter.
-  - All stat cards use `<picture>` + `prefers-color-scheme` so they stay legible
-    in both GitHub light and dark mode.
+- Switched to a minimal, card-less set of live hotlinked visuals (the user rejected
+  the boxed github-readme-stats / streak / activity-graph card aesthetic):
+  - Native GitHub contribution heatmap via `ghchart.rshah.org/409ba5/appleweiping`
+    (real data, teal, no Action) as the commit graph.
+  - skillicons.dev tech-stack icon row as the ability chart.
+  - shields.io contact badges + komarev profile-views counter in the header.
 - Updated schools: removed the "incoming at OSU / ASU" list; the user is
   transferring to the University of Minnesota Twin Cities, College of Science
   and Engineering (CSE). Added an Education entry — B.S. (Transfer), Computer
